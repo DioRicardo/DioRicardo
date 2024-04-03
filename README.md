@@ -17,6 +17,6 @@ Sou um desenvolvedor junior apaixonado por tecnologia, atualmente cursando Anál
 
 ## Objetivos de Carreira
 
-Estou focado em aprimorar minhas habilidades em desenvolvimento de software, especialmente em C# e .NET, tecnologias nas quais venho focando grande parte de meus estudos. Atualmente estou seguindo um plano de estudos que visa fechar um ciclo de especialização em C#, e eventualmente contribuir para projetos de código aberto.
+Enquanto busco recolocação no mercado de trabalho como Desenvolvedor C# .Net, estou focado em aprimorar minhas habilidades em desenvolvimento de software, especialmente em C# e .NET, tecnologias nas quais venho focando grande parte de meus estudos. Atualmente estou seguindo um plano de estudos que visa fechar um ciclo de especialização em C#, e eventualmente contribuir para projetos de código aberto.
 
 Agradeço por visitar o meu perfil! 👋
