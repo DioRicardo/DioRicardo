@@ -28,12 +28,12 @@ O plano de estudos que estou seguindo é composto pelas seguintes partes:
                     <li style="font-weight: normal">C#: criando sua primeira aplicação - Concluído ✅</li>
                     <li style="font-weight: normal">C#: aplicando a Orientação a Objetos - Concluído ✅</li>
                     <li style="font-weight: normal">C#: dominando Orientação a Objetos - Concluído ✅</li>
-                    <li style="font-weight: normal">C#: consumindo API, gravando arquivos e utilizando o LINQ - Cursando 👨‍💻</li>
+                    <li style="font-weight: normal">C#: consumindo API, gravando arquivos e utilizando o LINQ - Concluído ✅</li>
                 </ul>
             </li>
             <li>Formação - C# e Orientação a Objetos: coleções, arquivos e bibliotecas:
                 <ul>
-                    <li style="font-weight: normal">C#: Trabalhando com Arrays e Coleções</li>
+                    <li style="font-weight: normal">C#: Trabalhando com Arrays e Coleções - Cursando 👨‍💻</li>
                     <li style="font-weight: normal">C#: trabalhando com arquivos</li>
                     <li style="font-weight: normal">C#: criando e distribuindo bibliotecas em .NET</li>
                 </ul>
