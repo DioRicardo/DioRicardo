@@ -34,8 +34,8 @@ O plano de estudos que estou seguindo é composto pelas seguintes partes:
             <li>Formação - C# e Orientação a Objetos: coleções, arquivos e bibliotecas:
                 <ul>
                     <li style="font-weight: normal">C#: Trabalhando com Arrays e Coleções - Concluído ✅</li>
-                    <li style="font-weight: normal">C#: trabalhando com arquivos - Cursando 👨‍💻</li>
-                    <li style="font-weight: normal">C#: criando e distribuindo bibliotecas em .NET</li>
+                    <li style="font-weight: normal">C#: trabalhando com arquivos - Concluído ✅</li>
+                    <li style="font-weight: normal">C#: criando e distribuindo bibliotecas em .NET - Cursando 👨‍💻</li>
                 </ul>
             </li>
             <li>Formação - C# Web: crie aplicações usando ASP.NET:
